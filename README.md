@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, sou Caique Pires! 👋
 
-<!--
-**CaiquePirs/CaiquePirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Desenvolvedor de software Back-end
+Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI CIMATEC** e aprofundando meus conhecimentos em **Java**
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)](https://maven.apache.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)](https://git-scm.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ## 📧 Contato
+[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:pirescaiq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caique-pires-8843aa332)
+
+## 🔧 Tecnologias e ferramentas:
+- Linguagens: `Java`,  `SQL` 
+- Frameworks: `Spring Boot`, `Maven`
+- Ferramentas: `Git`, `DBeaver`, `VSCode`,  `Intellij Idea`
+- Arquitetura: `Microsserviços`, `APIs REST`
+
+## 📊 Estatísticas do GitHub:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquepirs&show_icons=true&theme=radical)
+
