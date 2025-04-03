@@ -16,11 +16,9 @@ Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI CIMATEC** e ap
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:pirescaiq@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caique-pires-8843aa332)
 
-## 🔧 Tecnologias e ferramentas:
-- Linguagens: `Java`,  `SQL` 
-- Frameworks: `Spring Boot`, `Maven`
-- Ferramentas: `Git`, `DBeaver`, `VSCode`,  `Intellij Idea`
-- Arquitetura: `Microsserviços`, `APIs REST`
+## 🔧 Ferramentas e Skills: 
+- Ferramentas: `DBeaver`, `VSCode`,  `Intellij Idea`
+- Skills: `APIs REST`, `Stream Api`
 
 ## 📊 Estatísticas do GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquepirs&show_icons=true&theme=radical)
