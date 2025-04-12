@@ -7,7 +7,6 @@ Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI CIMATEC** e ap
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)](https://maven.apache.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)](https://git-scm.com/)
 
