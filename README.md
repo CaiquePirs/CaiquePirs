@@ -3,13 +3,14 @@
 ## 👨‍💻 Desenvolvedor de software Back-end
 Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI CIMATEC** e aprofundando meus conhecimentos em **Java**
 
-## 💻 Tecnologias
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)](https://maven.apache.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)](https://git-scm.com/)
 
+## Tecnologias
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - ## 📧 Contato
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:pirescaiq@gmail.com)
