@@ -1,43 +1,46 @@
-# Olá, sou Caique Pires! 👋
+# 👋 Olá! Sou Caique Pires
 
-## 👨‍💻 Desenvolvedor de software Back-end
-Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI CIMATEC** e aprofundando meus conhecimentos em **Java**
+## 💼 Desenvolvedor Back-end Java
 
-## Tecnologias
+Sou desenvolvedor de software com foco em soluções back-end utilizando Java e o ecossistema Spring. Tenho experiência na construção de APIs RESTful, aplicação de boas práticas de desenvolvimento e integração com bancos de dados relacionais. Busco constantemente evoluir tecnicamente e contribuir para projetos com código limpo, seguro e escalável.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
-      <br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
-      <br>Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
-      <br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="60" height="60" alt="Maven"/>
-      <br>Maven
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
-      <br>Git
-    </td>
-  </tr>
-</table>
+---
 
-- ## 📧 Contato
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
+
+---
+
+## ⚙️ Ferramentas e Competências
+
+- **Ferramentas**: IntelliJ IDEA, DBeaver, VS Code, Postman, Git
+- **Principais habilidades**:
+  - Desenvolvimento de APIs RESTful com Spring Boot
+  - Integração com banco de dados MySQL utilizando JPA/Hibernate
+  - Versionamento com Git e GitHub
+  - Utilização de Maven para gerenciamento de dependências
+  - Manipulação de dados com Java Stream API
+  - Escrita de código limpo e organizado seguindo boas práticas
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiquepirs&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contato
+
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:pirescaiq@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caique-pires-8843aa332)
 
-## 🔧 Ferramentas e Skills: 
-- Ferramentas: `DBeaver`, `VSCode`,  `Intellij Idea`
-- Skills: `APIs REST`, `Stream Api`
-
-## 📊 Estatísticas do GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquepirs&show_icons=true&theme=radical)
 
