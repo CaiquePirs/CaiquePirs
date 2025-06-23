@@ -15,7 +15,7 @@ Sou desenvolvedor de software com foco em soluções back-end utilizando Java e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger"/>
+  <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="40" height="40" alt="Swagger"/>
 </p>
 
 ---
