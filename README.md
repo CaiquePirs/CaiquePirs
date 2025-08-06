@@ -26,6 +26,7 @@ I'm a software developer focused on building robust back-end solutions using Jav
   - API documentation with Swagger
   - Writing clean, readable, and maintainable code following SOLID principles and industry best practices
   - Experience working in agile environments and CI/CD pipelines
+  - Agile Methodologies (XP, Scrum, Lean, and Kanban)
 
 ---
 
