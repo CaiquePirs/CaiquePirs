@@ -28,6 +28,7 @@ Sou desenvolvedor de software com foco em soluções robustas de back-end utiliz
   - Desenvolvimento de APIs RESTful com Spring Boot
   - Autenticação e autorização seguras com Spring Security, OAuth2 e JWT
   - Integração com bancos de dados MySQL e PostgreSQL usando JPA/Hibernate
+  - Testes Unitários com Junit5 e Mockito
   - Containerização e configuração de ambientes com Docker
   - Controle de versão e colaboração com Git e GitHub
   - Gerenciamento de dependências e automação de builds com Maven
