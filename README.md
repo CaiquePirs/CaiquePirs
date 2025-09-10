@@ -2,11 +2,13 @@
 
 ## 💼 Desenvolvedor Back-end Java
 
-Sou desenvolvedor de software com foco em soluções robustas de back-end utilizando Java e o ecossistema Spring. Tenho experiência na criação de APIs RESTful, seguindo boas práticas de desenvolvimento e integrando com bancos de dados relacionais. Estou sempre em busca de aprimorar minhas habilidades técnicas e contribuir com projetos que prezam por código limpo, seguro e escalável.
+Sou desenvolvedor de software com foco em soluções robustas e escaláveis para o back-end, utilizando **Java** e o ecossistema **Spring**. Tenho experiência na construção de **APIs RESTful**, aplicando boas práticas de desenvolvimento, princípios de arquitetura limpa e integração com bancos de dados relacionais.
+
+Sou movido por aprendizado contínuo e apaixonado por tecnologia. Busco sempre evoluir tecnicamente e contribuir com projetos que valorizam **código limpo**, **segurança**, **eficiência** e **manutenibilidade**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias que domino
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
@@ -21,21 +23,27 @@ Sou desenvolvedor de software com foco em soluções robustas de back-end utiliz
 
 ---
 
-## ⚙️ Ferramentas & Competências
+## ⚙️ Ferramentas & Competências Técnicas
 
-- **Ferramentas**: IntelliJ IDEA, DBeaver, VS Code, Postman, Git, Docker  
-- **Principais Competências**:
-  - Desenvolvimento de APIs RESTful com Spring Boot
-  - Autenticação e autorização seguras com Spring Security, OAuth2 e JWT
-  - Integração com bancos de dados MySQL e PostgreSQL usando JPA/Hibernate
-  - Testes Unitários com Junit5 e Mockito
-  - Containerização e configuração de ambientes com Docker
-  - Controle de versão e colaboração com Git e GitHub
-  - Gerenciamento de dependências e automação de builds com Maven
-  - Documentação de APIs com Swagger
-  - Escrita de código limpo, legível e sustentável seguindo os princípios SOLID e boas práticas da indústria
-  - Experiência em ambientes ágeis e pipelines de CI/CD
-  - Metodologias Ágeis (XP, Scrum, Lean e Kanban)
+- **Ambientes e Ferramentas**: IntelliJ IDEA, DBeaver, VS Code, Postman, Git, Docker  
+- **Back-end & APIs**:
+  - Desenvolvimento de APIs RESTful com Spring Boot  
+  - Autenticação e autorização com Spring Security, OAuth2 e JWT  
+  - Integração com bancos de dados MySQL e PostgreSQL via JPA/Hibernate  
+- **Testes & Qualidade**:
+  - Testes unitários e de integração com JUnit 5 e Mockito  
+  - Cobertura de testes com Jacoco  
+- **DevOps & Automação**:
+  - Containerização com Docker  
+  - CI/CD com GitHub Actions  
+  - Gerenciamento de dependências com Maven  
+- **Documentação & Monitoramento**:
+  - Swagger/OpenAPI para documentação interativa  
+  - Monitoramento com Spring Actuator e Prometheus  
+- **Boas Práticas & Metodologias**:
+  - Princípios SOLID e Design Patterns  
+  - Modelagem de software com UML  
+  - Metodologias ágeis: XP, Scrum, Lean e Kanban  
 
 ---
 
@@ -45,9 +53,10 @@ Sou desenvolvedor de software com foco em soluções robustas de back-end utiliz
 
 ---
 
-## 📫 Contato
+## 📫 Vamos conversar?
 
-[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:pirescaiq@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:pirescaiq@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caique-pires-8843aa332)
+
 
 
