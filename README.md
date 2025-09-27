@@ -43,7 +43,7 @@ Sou movido por aprendizado contínuo e apaixonado por tecnologia. Busco sempre e
 - **Boas Práticas & Metodologias**:
   - Princípios SOLID e Design Patterns  
   - Modelagem de software com UML  
-  - Metodologias ágeis: XP, Scrum, Lean e Kanban  
+  - Metodologias ágeis: Scrum, Kanban  
 
 ---
 
