@@ -8,7 +8,7 @@ Sou movido por aprendizado contínuo e apaixonado por tecnologia. Busco sempre e
 
 ---
 
-## 🛠️ Tecnologias que domino
+## 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
