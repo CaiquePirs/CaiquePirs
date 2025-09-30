@@ -29,7 +29,7 @@ Sou movido por aprendizado contínuo e apaixonado por tecnologia. Busco sempre e
 - **Back-end & APIs**:
   - Desenvolvimento de APIs RESTful com Spring Boot  
   - Autenticação e autorização com Spring Security, OAuth2 e JWT  
-  - Integração com bancos de dados MySQL e PostgreSQL via JPA/Hibernate  
+  - Integração com bancos de dados MySQL e PostgreSQL
 - **Testes & Qualidade**:
   - Testes unitários e de integração com JUnit 5 e Mockito  
   - Cobertura de testes com Jacoco  
@@ -42,8 +42,7 @@ Sou movido por aprendizado contínuo e apaixonado por tecnologia. Busco sempre e
   - Monitoramento com Spring Actuator e Prometheus  
 - **Boas Práticas & Metodologias**:
   - Princípios SOLID e Design Patterns  
-  - Modelagem de software com UML  
-  - Metodologias ágeis: Scrum, Kanban  
+  - Modelagem de software com UML   
 
 ---
 
