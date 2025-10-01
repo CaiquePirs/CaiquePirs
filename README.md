@@ -45,10 +45,13 @@ Sou movido por aprendizado contínuo e apaixonado por tecnologia. Busco sempre e
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Vamos conversar
 
-[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:pirescaiq@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caique-pires-8843aa332)
-
-
-
+<p align="left">
+  <a href="mailto:pirescaiq@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/caique-pires-8843aa332" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+</p>
