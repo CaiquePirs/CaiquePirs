@@ -28,8 +28,6 @@ Sou movido por aprendizado contínuo e apaixonado por tecnologia. Busco sempre e
   - Cobertura de testes com Jacoco  
 - **DevOps & Automação**:
   - Containerização com Docker  
-  - CI/CD com GitHub Actions  
-  - Gerenciamento de dependências com Maven  
 - **Documentação & Monitoramento**:
   - Swagger/OpenAPI para documentação interativa  
   - Monitoramento com Spring Actuator e Prometheus  
