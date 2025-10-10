@@ -9,7 +9,7 @@ Sou desenvolvedor de software júnior focado em criar soluções robustas e esca
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,postman,mysql,postgres,maven,idea,git,docker,swagger"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,redis,mysql,postgres,docker,maven,idea,postman,git,swagger"/>
 </p>  
 
 ---
