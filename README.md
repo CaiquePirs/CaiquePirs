@@ -2,14 +2,14 @@
 
 ## 💼 Desenvolvedor Back-end Java
 
-Sou desenvolvedor de software júnior focado em criar soluções robustas e escaláveis para o back-end com Java e Spring. Tenho experiência em APIs RESTful, integração com bancos de dados relacionais e não-relacionais, autenticação e autorização com Spring Security e JWT, além de testes com JUnit e Mockito. Trabalho com Docker, Swagger/OpenAPI e monitoramento com Spring Actuator. Tenho conhecimento em arquitetura de microserviços, arquitetura hexagonal, layered architecture e clean architecture. Apaixonado por tecnologia, aplico princípios SOLID, design patterns e boas práticas de desenvolvimento para entregar código limpo, seguro e eficiente.
+Sou desenvolvedor de software júnior focado em criar soluções robustas e escaláveis para o back-end com Java e Spring. Tenho experiência em APIs RESTful, integração com bancos de dados relacionais e não-relacionais, autenticação e autorização com Spring Security e JWT, mensageria com RabbitMQ além de testes com JUnit e Mockito. Trabalho com Docker, Swagger/OpenAPI e monitoramento com Spring Actuator. Tenho conhecimento em arquitetura de microserviços, arquitetura hexagonal, layered architecture e clean architecture. Apaixonado por tecnologia, aplico princípios SOLID, design patterns e boas práticas de desenvolvimento para entregar código limpo, seguro e eficiente.
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,redis,mysql,postgres,docker,maven,idea,postman,git,swagger"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,mongodb,redis,mysql,postgres,docker,maven,idea,postman,git,swagger"/>
 </p>  
 
 ---
