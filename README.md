@@ -1,12 +1,12 @@
-# 👋 Olá! Eu sou Caique Pires
+# 👋 Hello There! I'm Caique Pires
 
-## 💼 Desenvolvedor Back-end Java
+## 💼 Backend Software Developer
 
-Sou desenvolvedor de software júnior focado em criar soluções robustas e escaláveis para o back-end com Java e Spring. Tenho experiência em APIs RESTful, integração com bancos de dados relacionais e não-relacionais, autenticação e autorização com Spring Security e JWT, mensageria com RabbitMQ além de testes com JUnit e Mockito. Trabalho com Docker, Swagger/OpenAPI e monitoramento com Spring Actuator. Tenho conhecimento em arquitetura de microserviços, arquitetura hexagonal, layered architecture e clean architecture. Apaixonado por tecnologia, aplico princípios SOLID, design patterns e boas práticas de desenvolvimento para entregar código limpo, seguro e eficiente.
+I'm a junior software developer focused on building robust and scalable backend solutions with Java and Spring. I have experience in RESTful APIs, integration with relational and non-relational databases, authentication and authorization with Spring Security and JWT, messaging with RabbitMQ, as well as testing with JUnit and Mockito. I work with Docker, Swagger/OpenAPI, and monitoring with Spring Actuator. I have knowledge of microservices architecture, hexagonal architecture, layered architecture, and clean architecture. Passionate about technology, I apply SOLID principles, design patterns, and best development practices to deliver clean, secure, and efficient code.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,mongodb,redis,mysql,postgres,docker,maven,idea,postman,git,swagger"/>
@@ -14,13 +14,13 @@ Sou desenvolvedor de software júnior focado em criar soluções robustas e esca
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiquepirs&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Vamos conversar
+## 📫 Let's talk
 
 <p align="left">
   <a href="mailto:pirescaiq@gmail.com" target="_blank">
