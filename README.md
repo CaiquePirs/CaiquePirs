@@ -14,12 +14,6 @@ I'm a junior software developer focused on building robust and scalable backend 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiquepirs&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's talk
 
 <p align="left">
