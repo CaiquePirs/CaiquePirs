@@ -1,15 +1,17 @@
 # 👋 Hello There! I'm Caique Pires
 
-## 💼 Backend Software Developer
+## 🚀 Software Development | Backend & Cloud
 
-I'm a junior software developer focused on building robust and scalable backend solutions with Java and Spring. I have experience in RESTful APIs, integration with relational and non-relational databases, authentication and authorization with Spring Security and JWT, messaging with RabbitMQ, as well as testing with JUnit and Mockito. I work with Docker, Swagger/OpenAPI, and monitoring with Spring Actuator. I have knowledge of microservices architecture, hexagonal architecture, layered architecture, and clean architecture. Passionate about technology, I apply SOLID principles, design patterns, and best development practices to deliver clean, secure, and efficient code.
+I am a Backend Developer focused on building high-performance, resilient, and scalable systems using the Java 21 ecosystem. My expertise lies in designing Microservices and Event-Driven Architectures, ensuring secure and efficient communication between distributed services.
+
+Currently, I am advancing my knowledge in Hexagonal Architecture and complex transaction management to build robust financial and logistics ecosystems.
 
 ---
 
 ## 🛠️ Technologies Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,mongodb,redis,mysql,postgres,docker,maven,idea,postman,git,swagger"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,rabbitmq,mongodb,redis,mysql,postgres,docker,idea,postman,maven,git,swagger, "/>
 </p>  
 
 ---
