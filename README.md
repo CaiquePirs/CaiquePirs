@@ -1,12 +1,18 @@
-# 👋 Hello There! I'm Caique Pires
+# 🇧🇷🇮🇪 Backend Software Engineer — Waterford, Ireland
 
-### 🚀 Software Development | Backend & Cloud
+Building scalable, distributed systems with Java & Spring Boot. 
+Passionate about Microservices, 
+Event-Driven Architecture, and clean, testable backend code.
 
-I am a Backend Developer focused on building high-performance, resilient, and scalable systems using the Java 21 ecosystem. My expertise lies in designing Microservices and Event-Driven Architectures, ensuring secure and efficient communication between distributed services.
+## 💻 Stack
+- Java 21 · Spring Boot · Spring Security · Docker
+- RabbitMQ· PostgreSQL · MongoDB · Redis
+- Keycloak · AWS EC2 & RDS · CI/CD
 
-Currently, I am advancing my knowledge in Hexagonal Architecture and complex transaction management to build robust financial and logistics ecosystems.
-
----
+## 🔭 Currently working on
+- Hexagonal Architecture in Microservices
+- Event-Driven systems at scale
+- Cloud-native deployments on AWS
 
 ## 🛠️ Technologies Skills
 
