@@ -4,15 +4,13 @@ Building scalable, distributed systems with Java & Spring Boot.
 Passionate about Microservices, 
 Event-Driven Architecture, and clean, testable backend code.
 
-## 💻 Stack
-- Java 21 · Spring Boot · Spring Security · Docker
-- RabbitMQ· PostgreSQL · MongoDB · Redis
-- Keycloak · AWS EC2 & RDS · CI/CD
 
 ## 🔭 Currently working on
-- Hexagonal Architecture in Microservices
-- Event-Driven systems at scale
-- Cloud-native deployments on AWS
+- Resilience patterns with **Resilience4j** & Circuit Breakers  
+- Cloud infrastructure with **Terraform** & AWS  
+- Observability with **Prometheus** & **Grafana**  
+- Preparing for **AWS Cloud Practitioner** certification
+- Studying **System Design** course at **@LINUXtips**
 
 ## 🛠️ Technologies Skills
 
