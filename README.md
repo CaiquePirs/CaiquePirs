@@ -10,7 +10,6 @@ Event-Driven Architecture, and clean, testable backend code.
 - Cloud infrastructure with AWS  
 - Observability with **Prometheus** & **Grafana**  
 - Preparing for **AWS Cloud Practitioner** certification
-- Studying **System Design** course at **@LINUXtips**
 
 ## 🛠️ Technologies Skills
 
