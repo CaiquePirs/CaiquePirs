@@ -8,8 +8,7 @@ Event-Driven Architecture, and clean, testable backend code.
 ## 🔭 Currently working on
 - Resilience patterns with **Resilience4j** & Circuit Breakers  
 - Cloud infrastructure with AWS  
-- Observability with **Prometheus** & **Grafana**  
-- Preparing for **AWS Cloud Practitioner** certification
+- Observability with **Prometheus**, **Grafana**, **OpenTelemetry** & **Loki** 
 
 ## 🛠️ Technologies Skills
 
