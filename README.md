@@ -1,4 +1,4 @@
-# 🇧🇷🇮🇪 Backend Software Engineer — Waterford, Ireland
+# 🇧🇷🇮🇪 Backend Software Engineer — Ireland
 
 Building scalable, distributed systems with Java & Spring Boot. 
 Passionate about Microservices, 
