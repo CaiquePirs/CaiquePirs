@@ -13,6 +13,6 @@ Event-Driven Architecture, and clean, testable backend code.
 ## 🛠️ Technologies Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,rabbitmq,mongodb,redis,mysql,postgres,docker,idea,postman,maven,git,swagger, "/>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,grafana,prometheus,rabbitmq,mongodb,redis,mysql,postgres,docker,idea,postman,maven,git,swagger, "/>
 </p>  
 
