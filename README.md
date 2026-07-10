@@ -14,5 +14,4 @@ Event-Driven Architecture, and clean, testable backend code.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,aws,grafana,prometheus,rabbitmq,mongodb,redis,mysql,postgres,docker,idea,postman,maven,git,swagger, "/>
-</p>  
-
+</p>
